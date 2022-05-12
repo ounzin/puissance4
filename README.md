@@ -1,2 +1,2 @@
-# langage_C
-Mes codes en langages C
+#puissance 4
+Une représentation du jeu puissance 4 en langage C
